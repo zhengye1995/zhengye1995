@@ -1,6 +1,11 @@
 <!-- ### Hi there 👋 -->
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 My ![Visitor Count](https://profile-counter.glitch.me/zhengye1995/count.svg) visitor
+
 
 # I'm Zheng Ye <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
@@ -14,9 +19,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhengye1995/count.svg) vis
 - ⚡ Fun fact: **Movie, DOTA2, NBA2K**
 
 # About My Github
+[![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=zhengye1995&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/zhengye1995)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengye1995)](https://github.com/zhengye1995/github-readme-stats)
 
-[![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=zhengye1995&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/zhengye1995)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
