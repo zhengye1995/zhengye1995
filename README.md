@@ -19,9 +19,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhengye1995/count.svg) vis
 - ⚡ Fun fact: **Movie, DOTA2, NBA2K**
 
 # About My Github
-[![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=zhengye1995&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/zhengye1995)
+[![zhengye1995's github stats](https://github-readme-stats.vercel.app/api?username=zhengye1995&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/zhengye1995)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengye1995)](https://github.com/zhengye1995/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengye1995&layout=compact)](https://github.com/zhengye1995)
 
 
 # My Skill Set  
